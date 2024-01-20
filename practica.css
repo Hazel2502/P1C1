@@ -1,0 +1,59 @@
+h1 {
+    color: #c52222;
+    font-family:cursive
+}
+
+p {
+    color: #0e278d;
+    font-family: 'Arial', sans-serif; 
+    text-align: justify;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+li img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+#video-container {
+    margin-top: 20px;
+}
+
+#video-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#miboton {
+    background-color: chartreuse;
+    color:black;
+}
+
+body {
+    background-color:azure;
+}
+
+textarea { 
+    resize: none;
+}
+  
